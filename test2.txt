@@ -1,0 +1,13 @@
+ONE TWO THREE FOUR
+
+ONE TWO lowercase THREE FOUR
+
+ONE TWO THREE FOUR
+
+ONE TWO THREE lowercase FOUR
+
+ONE TWO THREE FOUR
+
+lowercase lowercase lowercase
+
+ONE lowercase TWO THREE lowercase FOUR
